@@ -8,6 +8,9 @@ In this project we will propose some algorithms to determine basins of attractio
 ![Bacia_atracao](/docs/assets/images/bacias_intermitent.png)
 
 
-## Referências:
+## References:
+1. A. Ribeiro, Mauricio, Jose M. Balthazar, Ângelo M. Tusset, Átila M. Bueno, and Hilson H. Daum. 2022. ‘MEMS-Based Atomic Force Microscope: Nonlinear Dynamics Analysis and Its Control’. Vibration Monitoring and Analysis - Recent Advances [Working Title]. IntechOpen. doi:10.5772/intechopen.108880.
+
+2. A. Ribeiro, Mauricio, Jose M. Balthazar, Hilson H. Daum, Angelo M. Tusset (In Press). 'Nonlinear Dynamics Behavior and Its Control under Frequency-Varying Excitations for Energy Harvesting'. International Journal of Nonlinear Dynamics and Control
 
 
