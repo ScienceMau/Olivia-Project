@@ -6,5 +6,5 @@ Nessa projeto iremos propor alguns algoritmos para determinar bacias de atraçã
 
 
 <p align="center">
-  <img width="470" scr="src/assets/to_readme/bacias_intermitent.png">
+  <img width="470" scr="bacias_intermitent.png">
 </p>
