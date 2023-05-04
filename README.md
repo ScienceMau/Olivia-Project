@@ -5,7 +5,7 @@ Nessa projeto iremos propor alguns algoritmos para determinar bacias de atraçã
 ## Exemplo de Resultado de bacia de atração:
 
 
-![Bacia_atracao](/least-github-pages/assets/bacias_intermitent.png)
+![Bacia_atracao](/Bacias_de_Atracao/assets/bacias_intermitent.png)
 
 
 <div align="center">
