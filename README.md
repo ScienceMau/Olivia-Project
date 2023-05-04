@@ -4,7 +4,6 @@ Nessa projeto iremos propor alguns algoritmos para determinar bacias de atraçã
 
 ## Exemplo de Resultado de bacia de atração:
 
-
-<p align="center">
-  <img width="470" scr="bacias_intermitent.png">
-</p>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/61286097/236341682-3a5a7deb-9a81-46a3-a42e-0ef1a3ea3e81.png" width="700px" />
+</div>
