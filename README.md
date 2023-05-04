@@ -1,8 +1,13 @@
 # Basins of Attraction
 
-Nessa projeto iremos propor alguns algoritmos para determinar bacias de atração de sistemas dinâmicos não lineares. No entanto, nós utilizamos a linguagem julia para determinar os atratores e as bacias de atração, no entanto, para a construção dos gráficos iremos utilizar a linguagem python. As analises para a construção das bacias de atração é utilizando DynamicalSystems.jl.
+In this project we will propose some algorithms to determine basins of attraction of nonlinear dynamic systems. However, we use the julia language to determine the attractors and the basins of attraction, however, for the construction of the graphs we will use the python language. The analysis for the construction of the basins of attraction is using DynamicalSystems.jl.
 
 ## Exemplo de Resultado de bacia de atração:
 
 
 ![Bacia_atracao](/docs/assets/images/bacias_intermitent.png)
+
+
+## Referências:
+
+
