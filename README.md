@@ -1,3 +1,8 @@
+#Lyapunov Exponent
+The Lyapunov Exponent describes the phase velocity with which two nearby points in phase space move closer or further apart. For one dimension of phase space there is a Lyapunov exponent which forms the Lyapunov spectrum. It is often interesting to observe only the largest Lyapunov exponent, as this determines the general behavior of the system.
+
+
+
 # Basins of Attraction
 
 In this project we will propose some algorithms to determine basins of attraction of nonlinear dynamic systems. However, we use the julia language to determine the attractors and the basins of attraction, however, for the construction of the graphs we will use the python language. The analysis for the construction of the basins of attraction is using DynamicalSystems.jl.
