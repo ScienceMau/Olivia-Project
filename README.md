@@ -4,7 +4,7 @@
 
 The Lyapunov Exponent describes the phase velocity with which two nearby points in phase space move closer or further apart. For one dimension of phase space there is a Lyapunov exponent which forms the Lyapunov spectrum. It is often interesting to observe only the largest Lyapunov exponent, as this determines the general behavior of the system.
 
-
+![Bacia_atracao](/docs/assets/images/Imagem1.png)
 
 ## Basins of Attraction
 
