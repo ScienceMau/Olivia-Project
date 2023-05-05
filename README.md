@@ -2,9 +2,10 @@
 
 ## Lyapunov Exponent
 
-The Lyapunov Exponent describes the phase velocity with which two nearby points in phase space move closer or further apart. For one dimension of phase space there is a Lyapunov exponent which forms the Lyapunov spectrum. It is often interesting to observe only the largest Lyapunov exponent, as this determines the general behavior of the system.
+The Lyapunov Exponent describes the phase velocity with which two nearby points in phase space move closer or further apart. For one dimension of phase space there is a Lyapunov exponent which forms the Lyapunov spectrum. It is often interesting to observe only the largest Lyapunov exponent, as this determines the general behavior of the system. For the analysis of the parameter space, we use the maximum Lyapunov exponent to determine the parameter space and thus observe the stability regions of the orbits as a function of the parameter space of the nonlinear dynamic system. Calculation is using DynamicalSystems.jl library. The Figure (1) show a example for the parameter space do Maximum Lyapunov Exponent. As I call the 2d Lyapunov.
 
 ![Bacia_atracao](/docs/assets/images/Imagem1.png)
+
 
 ## Basins of Attraction
 
