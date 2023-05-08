@@ -1,6 +1,5 @@
 # Nonlinear Dynamics Analisys
 
-![references](/References/references.html)
 
 ## Lyapunov Exponent
 
