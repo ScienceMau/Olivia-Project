@@ -23,3 +23,13 @@ Finally, create a symbolic link to julia inside the /usr/local/bin folder: `sudo
 
 So, if everything went well, just type julia in your terminal and the interpreter starts working. Once that's done, just use the command in julia's terminal to install the necessary packages for the PAP scripts to work: `using Pkg; Pkg.add("Package Name");`
 
+For its use it is necessary to install the following packages:
+<ul>
+<li><a href="https://docs.julialang.org/en/v1/manual/distributed-computing/">Distributed</a></li>
+<li><a href="https://juliadynamics.github.io/DynamicalSystems.jl/dev/">Dynamical System</a></li>
+<li><a href="https://docs.julialang.org/en/v1/stdlib/SharedArrays/">SharedArrays</a></li>
+<li><a href="https://github.com/JuliaIO/MAT.jl">MAT</a></li>
+<li><a href="https://docs.julialang.org/en/v1/stdlib/Statistics/">Statistics</a></li>
+<li><a href="https://github.com/SciML/OrdinaryDiffEq.jl">OrdinaryDiffEq</a></li>
+</ul>
+
