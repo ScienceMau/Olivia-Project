@@ -33,7 +33,7 @@ For installation on Windows systems, just download from <a href="https://juliala
 For installation in particular use the command: `sudo snap install julia -classic`
 
 
-#### Packages
+### Packages
 
 For its use it is necessary to install the following packages:
 <ul>
