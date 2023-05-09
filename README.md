@@ -5,9 +5,7 @@ Para melhor performance dos scripts criados nós indicamos
 [![Blog](https://img.shields.io/badge/Ubuntu-Download-orange?style=for-the-badge)](www.ubuntu.org)
 [![Blog](https://img.shields.io/badge/Python-Download-blue?style=for-the-badge)](www.python.org)
 
-
-O Projeto Olivia (PO) constitui de scripts em linguagem Julia e Python para analise de sistemas dinâmicos não lineares e temos o cálculo da potencia média de um modelo matemático para coleta de energia.  Os scripts que constituem o PO calculam os Expoentes de Lyapunov, diagramas de bifurcações, o teste 01, bacias de atração e a potencia média e sendo assim formando um diagnóstico do comportamento caótico ou periódico do sistema analisado.
- 
+The Olivia Project (OP) consists of scripts in Julia and Python language for the analysis of non-linear dynamic systems and we have the calculation of the average power of a mathematical model for energy collection. The scripts that make up the PO calculate the Lyapunov Exponents, bifurcation diagrams, Test-01, Basins of attraction and average power, thus forming a diagnosis of the chaotic or periodic behavior of the analyzed system.
  
 ## Installation
 ### Linux
