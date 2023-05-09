@@ -5,24 +5,26 @@ Para melhor performance dos scripts criados nós indicamos
 [![Blog](https://img.shields.io/badge/Ubuntu-Download-orange?style=for-the-badge)](www.ubuntu.org)
 [![Blog](https://img.shields.io/badge/Python-Download-blue?style=for-the-badge)](www.python.org)
 
+<p>
 The Olivia Project (OP) consists of scripts in Julia and Python language for the analysis of non-linear dynamic systems and we have the calculation of the average power of a mathematical model for energy collection. The scripts that make up the PO calculate the Lyapunov Exponents, bifurcation diagrams, Test-01, Basins of attraction and average power, thus forming a diagnosis of the chaotic or periodic behavior of the analyzed system.
- 
+<p/>
+
 ## Installation
 ### Linux
-Abra um novo terminal e digite os comandos:
+Open a new terminal and type the commands:
 
-Para download dos pacotes de intalação de Julia Lang:`wget https://julialang-s3.julialang.org/bin/linux/x64/1.7/julia-1.7.2-linux-x86_64.tar.gz`
+To download Julia Lang's installation packages: `wget https://julialang-s3.julialang.org/bin/linux/x64/1.7/julia-1.7.2-linux-x86_64.tar.gz`
 
 
- Para extrair .tar.gz:
+To extract .tar.gz:
 `tar -xvzf julia-1.8.5-linux-x86_64.tar.gz`
  
- Copie e extraia a pasta para /opt:
- `sudo cp -r julia-1.8.5 /opt/`
+Copy and extract the folder to /opt:
+  `sudo cp -r julia-1.8.5 /opt/`
  
- Finalmente, crie um link simbólico para julia dentro da pasta /usr/local/bin: `sudo ln -s /opt/julia-1.8.5/bin/julia/local/bin/local`
+Finally, create a symbolic link to julia inside the /usr/local/bin folder: `sudo ln -s /opt/julia-1.8.5/bin/julia/local/bin/local`
  
- Então, se deu tudo certo, basta digitar julia em seu terminal que o interpretador começa a funcionar. Uma vez feito isso basta usar o comando no terminal do julia para instalar os pacotes necessários para o funcionamento dos scripts do PAP: `using Pkg; Pkg.add("Package Name");`
+So, if everything went well, just type julia in your terminal and the interpreter starts working. Once that's done, just use the command in julia's terminal to install the necessary packages for the PAP scripts to work: `using Pkg; Pkg.add("Package Name");`
 
 <p> For its use it is necessary to install the following packages:
 <ul>
