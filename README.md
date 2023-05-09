@@ -9,9 +9,9 @@ Para melhor performance dos scripts criados nós indicamos
 The Olivia Project (OP) consists of scripts in Julia and Python language for the analysis of non-linear dynamic systems and we have the calculation of the average power of a mathematical model for energy collection. The scripts that make up the PO calculate the Lyapunov Exponents, bifurcation diagrams, Test-01, Basins of attraction and average power, thus forming a diagnosis of the chaotic or periodic behavior of the analyzed system.
 <p/>
 
-## Installation
+# Installation
 
-### Linux
+## Linux
 
 
 
