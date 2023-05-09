@@ -59,39 +59,40 @@ For installation on Windows systems, just download from <a href="https://juliala
 
 
 
-For installation in particular use the command `sudo snap install julia -classic`
+For installation in particular use the command: `sudo snap install julia -classic`
 
 
 ## Codes for Dynamical Analisys
 
-### MathModel.jl
+
+1. MathModel.jl
 
 Script to write first order differential equations, parameters and initial conditions.
 
-### lyapunov.jl
 
-Script that calculates Lyapnov exponent and bifurcation diagram
+2. lyapunov.jl
 
-### time_series.jl
+Script that calculates Lyapunov exponent and bifurcation diagram
+
+3. time_series.jl
 
 Script that builds phase space and time series
 
-### recurrence_plot.jl
+4. recurrence_plot.jl
 
 Script that calculates the Recurrence Plot and its quantities
 
-### basins.jl
+5. basins.jl
 
 Script that calculates the attraction basins of a system.
 
-
-### test-01.jl
+6. test-01.jl
 Script that calculates the 01-Test.
 
 
 
 
-### References:
+# References:
 1. A. Ribeiro, Mauricio; Jose M. Balthazar, Ângelo M. Tusset, Átila M. Bueno, and Hilson H. Daum. 2022. ‘MEMS-Based Atomic Force Microscope: Nonlinear Dynamics Analysis and Its Control’. Vibration Monitoring and Analysis - Recent Advances [Working Title]. IntechOpen. doi:10.5772/intechopen.108880.
 
 2. A. Ribeiro, Mauricio; Jose M. Balthazar, Hilson H. Daum, Angelo M. Tusset (In Press). 'Nonlinear Dynamics Behavior and Its Control under Frequency-Varying Excitations for Energy Harvesting'. International Journal of Nonlinear Dynamics and Control
