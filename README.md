@@ -1,5 +1,6 @@
 # Nonlinear Dynamics Analisys
 Para melhor performance dos scripts criados nós indicamos
+
 [![Blog](https://img.shields.io/badge/Julia%20Lang-Download-red?style=for-the-badge)](https://julialang.org/)
 [![Blog](https://img.shields.io/badge/Ubuntu-Download-orange?style=for-the-badge)](www.ubuntu.org)
 [![Blog](https://img.shields.io/badge/Python-Download-blue?style=for-the-badge)](www.python.org)
