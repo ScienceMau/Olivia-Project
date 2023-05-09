@@ -54,33 +54,29 @@ For installation on Windows systems, just download from <a href="https://juliala
 
 ### Ubuntu
 
-Para instalação em especial utilizar o commando `sudo snap install julia -classic`
+For installation in particular use the command `sudo snap install julia -classic`
 
 
 ## Codes for Dynamical Analisys
 
 ### MathModel.jl
 
-Script que escrevesse as equações diferenciais de primeira ordem, os parâmetros e as condições iniciais.
+Script to write first order differential equations, parameters and initial conditions.
 
 ### lyapunov.jl
-Script que calcula o expoente de Lyapnov e o diagrama de bifurcação
+Script that calculates Lyapnov exponent and bifurcation diagram
 
 ### time_series.jl
-Script que monta o espaço de fase e e as séries temporaos
+Script that builds phase space and time series
 
 ### recurrence_plot.jl
-Script que calcula o Recurrence Plot e suas quantidades
+Script that calculates the Recurrence Plot and its quantities
 
 ### basins.jl
-Script que calcula as bacias de atração de um sistema.
+Script that calculates the attraction basins of a system.
 
 ### test-01.jl
-Script que calcula o teste 01.
-
-
-***NOTE***
-Antes de utilizar os scripts recomenda-se usa o install.jl que irá instalar os pacotes necessários para a utilização dos cálculos.
+Script that calculates the 01-Test.
 
 
 ### References:
