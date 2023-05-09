@@ -38,7 +38,8 @@ So, if everything went well, just type julia in your terminal and the interprete
 
 ### Windows
  
- Para a instalação no sistema windows basta baixar em <a href="https://julialang.org/"><img align = "center" alt= "julia-lang" heigth = "50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original-wordmark.svg"  style="max-width100%;"/></a> o .exe para o sistema operacional Windows e seguir os passos indicados pelo app. E então clicar no icone em seu Desktop e instalar as bibliotecas. Para isso basta digitar no terminal do julia: `using Pkg; Pkg.add("Package Name");`
+For installation on Windows systems, just download from <a href="https://julialang.org/"><img align = "center" alt= "julia-lang" heigth = "50" width="70" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original-wordmark.svg" style="max-width100%;"/></a> the .exe for the system Windows operating system and follow the steps indicated by the app. And then click on the icon on your Desktop and install the libraries. To do so, just type in Julia's terminal: `using Pkg; Pkg.add("Package Name");`
+
 
 <p> For its use it is necessary to install the following packages:
 <ul>
