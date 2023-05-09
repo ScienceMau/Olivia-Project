@@ -35,5 +35,5 @@ In this project we will propose some algorithms to determine basins of attractio
 3. Mauricio A. Ribeiro, Angelo M. Tusset, Wagner B. Lenz, José M. Balthazar*, Grzegorz Litak; On non-linear dynamics behaviour of a fixed offshore platform for energy harvesting. 16th INTERNATIONAL CONFERENCE Dynamical Systems – Theory and Applications December 6-9, 2021 (On-line)
 
 ### Contact:
-[![Linkin](https://img.shields.io/badge/Linkedin-Link-blue?style=for-the-badge)](https://www.linkedin.com/in/mauricio-ribeiro-760b5b268/)
-[![Linkin](https://img.shields.io/badge/Instagram-Link-red?style=for-the-badge)](https://www.instagram.com/science.mau/)
+[![Linkin](https://img.shields.io/badge/Linkedin-Link-blue?style=for-the-badge)](www.linkedin.com/in/mauricio-ribeiro-760b5b268/)
+[![Linkin](https://img.shields.io/badge/Instagram-Link-red?style=for-the-badge)](www.instagram.com/science.mau/)
