@@ -11,6 +11,8 @@ The Olivia Project (OP) consists of scripts in Julia and Python language for the
 
 ## Installation
 
+### Linux
+
 Open a new terminal and type the commands:
 
 To download Julia Lang's installation packages: `wget https://julialang-s3.julialang.org/bin/linux/x64/1.7/julia-1.7.2-linux-x86_64.tar.gz`
@@ -33,3 +35,7 @@ For its use it is necessary to install the following packages:
 <li><a href="https://github.com/SciML/OrdinaryDiffEq.jl">OrdinaryDiffEq</a></li>
 </ul>
 
+
+### Windows
+ 
+For installation on Windows systems, just download from <a href="https://julialang.org/"><img align = "center" alt= "julia-lang" heigth = "50" width="70" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original-wordmark.svg" style="max-width100%;"/></a> the .exe for the system Windows operating system and follow the steps indicated by the app. And then click on the icon on your Desktop and install the libraries. To do so, just type in Julia's terminal: `using Pkg; Pkg.add("Package Name");`
