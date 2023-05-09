@@ -36,4 +36,4 @@ In this project we will propose some algorithms to determine basins of attractio
 
 ### Contact:
 [![Linkin](https://img.shields.io/badge/Linkedin-Link-blue?style=for-the-badge)](https://www.linkedin.com/in/mauricio-ribeiro-760b5b268/)
-[![Linkin](https://img.shields.io/badge/Instagram-Link-red?style=for-the-badge)](https://www.https://www.instagram.com/science.mau/)
+[![Linkin](https://img.shields.io/badge/Instagram-Link-red?style=for-the-badge)](https://www.instagram.com/science.mau/)
