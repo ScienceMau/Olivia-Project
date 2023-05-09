@@ -51,10 +51,8 @@ For installation on Windows systems, just download from <a href="https://juliala
 </ul>
 </p>
 
+
 ### Ubuntu
-
-
-
 For installation in particular use the command: `sudo snap install julia -classic`
 
 
@@ -65,24 +63,23 @@ For installation in particular use the command: `sudo snap install julia -classi
 
 Script to write first order differential equations, parameters and initial conditions.
 
-
-2. lyapunov.jl
+2. Lyapunov.jl
 
 Script that calculates Lyapunov exponent and bifurcation diagram
 
-3. time_series.jl
+3. Time_series.jl
 
 Script that builds phase space and time series
 
-4. recurrence_plot.jl
+4. Recurrence_plot.jl
 
 Script that calculates the Recurrence Plot and its quantities
 
-5. basins.jl
+5. Basins.jl
 
 Script that calculates the attraction basins of a system.
 
-6. test-01.jl
+6. Test-01.jl
 Script that calculates the 01-Test.
 
 
