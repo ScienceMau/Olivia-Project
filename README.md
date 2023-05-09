@@ -25,6 +25,16 @@ Finally, create a symbolic link to julia inside the /usr/local/bin folder: `sudo
 
 So, if everything went well, just type julia in your terminal and the interpreter starts working. Once that's done, just use the command in julia's terminal to install the necessary packages for the PAP scripts to work: `using Pkg; Pkg.add("Package Name");`
 
+### Windows
+ 
+For installation on Windows systems, just download from <a href="https://julialang.org/"><img align = "center" alt= "julia-lang" heigth = "50" width="70" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original-wordmark.svg" style="max-width100%;"/></a> the .exe for the system Windows operating system and follow the steps indicated by the app. And then click on the icon on your Desktop and install the libraries. To do so, just type in Julia's terminal: `using Pkg; Pkg.add("Package Name");`
+
+### Ubuntu
+For installation in particular use the command: `sudo snap install julia -classic`
+
+
+### Packages
+
 For its use it is necessary to install the following packages:
 <ul>
 <li><a href="https://docs.julialang.org/en/v1/manual/distributed-computing/">Distributed</a></li>
@@ -36,6 +46,3 @@ For its use it is necessary to install the following packages:
 </ul>
 
 
-### Windows
- 
-For installation on Windows systems, just download from <a href="https://julialang.org/"><img align = "center" alt= "julia-lang" heigth = "50" width="70" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original-wordmark.svg" style="max-width100%;"/></a> the .exe for the system Windows operating system and follow the steps indicated by the app. And then click on the icon on your Desktop and install the libraries. To do so, just type in Julia's terminal: `using Pkg; Pkg.add("Package Name");`
