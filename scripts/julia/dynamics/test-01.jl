@@ -1,4 +1,4 @@
-using LaTeXStrings,DynamicalSystems, SharedArrays, MAT, Statistics, OrdinaryDiffEq, ProgressMeter, CairoMakie
+using LaTeXStrings,DynamicalSystems, SharedArrays, MAT, Statistics, OrdinaryDiffEq, ProgressMeter, CairoMakie, DelimitedFiles
 
 include("MathModel.jl")
 
