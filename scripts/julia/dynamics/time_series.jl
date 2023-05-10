@@ -37,7 +37,8 @@ x=tr[:,1]
 y=tr[:,2]
 
 
-writedlm("time_series.txt", [x;y;t])
+writedlm("time_series.txt", [x y])
+writedlm("time_.txt", t)
 
 matwrite("TIME_SERIES_.mat", Dict(
 	"X" => collect(x),
