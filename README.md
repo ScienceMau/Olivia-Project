@@ -52,9 +52,8 @@ For its use it is necessary to install the following packages:
 1. **MathModel.jl** : Script to write first order differential equations, parameters and initial conditions.
 2. **Lyapunov.jl**: Script that calculates Lyapunov exponent and bifurcation diagram
 3. **Time_series.jl**: Script that builds phase space and time series
-4. **Recurrence_plot.jl**: Script that calculates the Recurrence Plot and its quantities
-5. **Basins.jl**: Script that calculates the attraction basins of a system.
-6. **Test-01.jl**: Script that calculates the 01-Test.
+4. **Basins.jl**: Script that calculates the attraction basins of a system.
+5. **Test-01.jl**: Script that calculates the 01-Test.
 
 ## Publications:
 
