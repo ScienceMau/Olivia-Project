@@ -44,6 +44,7 @@ For its use it is necessary to install the following packages:
 <li><a href="https://github.com/JuliaIO/MAT.jl">MAT</a></li>
 <li><a href="https://docs.julialang.org/en/v1/stdlib/Statistics/">Statistics</a></li>
 <li><a href="https://github.com/SciML/OrdinaryDiffEq.jl">OrdinaryDiffEq</a></li>
+ <li><a href="https://docs.julialang.org/en/v1/stdlib/DelimitedFiles/">DelimitedFiles</a></li>
 </ul>
 
 
