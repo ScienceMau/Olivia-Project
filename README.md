@@ -70,6 +70,9 @@ Exemplo de resultado obtido com o Lyapunov.jl e Lyapunov_and_bifurcation_plot.py
 ![bif_lyapunov_intermitent](https://github.com/ScienceMau/Olivia-Project/assets/61286097/9fbe9b7a-a7d8-4666-a75f-b6442382d7d3)
 
 3. basins_and_attractors_plot.py
+ Exemplo usando Phase_portrait_and_poincare_map.jl and Phase_portrait_and_poincare_map_plot.py
+ 
+5. Phase_portrait_and_poincare_map_plot.py
 
 
 ## Publications:
