@@ -64,7 +64,12 @@ For its use it is necessary to install the following packages:
 #### For build the plots:
 
 1. Lyapunov_and_bifurcation_plot.py
-2. basins_and_attractors_plot.py
+
+Exemplo de resultado obtido com o Lyapunov.jl e Lyapunov_and_bifurcation_plot.py:
+
+
+
+3. basins_and_attractors_plot.py
 
 
 ## Publications:
