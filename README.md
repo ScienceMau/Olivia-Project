@@ -67,9 +67,10 @@ Example of result obtained with the Lyapunov.jl e Lyapunov_and_bifurcation_plot.
 
 ![bif_lyapunov_intermitent](https://github.com/ScienceMau/Olivia-Project/assets/61286097/9fbe9b7a-a7d8-4666-a75f-b6442382d7d3)
 
+
 2. **Basins_and_attractors_plot.py**
 
-Example of result obtained with the Basins.jl and basins_and_attractors_plot.py:
+Example of result obtained with the Basins.jl and basins_and_attractors_plot.py
 
 ![bacia_atracao_casimir](https://github.com/ScienceMau/Olivia-Project/assets/61286097/4e39997c-bb46-45e3-a99f-b20e60e9f072)
 
