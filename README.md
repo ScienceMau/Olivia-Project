@@ -76,7 +76,7 @@ Example of result obtained with the Basins.jl and basins_and_attractors_plot.py
 
 3. **Phase_portrait_and_poincare_map_plot.py**
 
-Exemplo usando Phase_portrait_and_poincare_map.jl and Phase_portrait_and_poincare_map_plot.py
+Example of result obtained with the Phase_portrait_and_poincare_map.jl and Phase_portrait_and_poincare_map_plot.py
 
 ![poincare_TS_intermitent](https://github.com/ScienceMau/Olivia-Project/assets/61286097/3a175736-b2ba-4a8d-bfa1-b2bd5f4cbb6b)
 
