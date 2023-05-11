@@ -1,5 +1,3 @@
-# Olivia Project 
-
 ![twitter_header_1500x500](https://github.com/ScienceMau/Olivia-Project/assets/61286097/be1dcb73-ba70-4de7-aac0-c3c1c8073b39)
 
 
