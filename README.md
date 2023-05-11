@@ -61,9 +61,7 @@ For its use it is necessary to install the following packages:
 
 ### Plots (In Python)
 
-#### For build the plots
-
-1. **Lyapunov_and_bifurcation_plot.py** :
+1. **Lyapunov_and_bifurcation_plot.py** 
 
 Exemplo de resultado obtido com o Lyapunov.jl e Lyapunov_and_bifurcation_plot.py
 
