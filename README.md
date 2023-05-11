@@ -55,7 +55,7 @@ For its use it is necessary to install the following packages:
 
 1. **MathModel.jl** : Script to write first order differential equations, parameters and initial conditions.
 2. **Lyapunov.jl**: Script that calculates Lyapunov exponent and bifurcation diagram
-3. **Time_series.jl**: Script that builds Phase Portrait and Time Series
+3. **Phase_portrait_and_poincare_map.jl**: Script that builds Phase Portrait and Time Series
 4. **Basins.jl**: Script that calculates the Basins of attraction of system.
 5. **Test-01.jl**: Script that calculates the 01-Test.
 
