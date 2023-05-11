@@ -1,7 +1,12 @@
 # Sample workflow for building and deploying a Jekyll site to GitHub Pages
 name: Deploy Jekyll with GitHub Pages dependencies preinstalled
 
-header_pages: 
+header_pages:
+
+author:
+  name: Mauricio A. Ribeiro
+  email: "mau.ap.ribeiro@gmail.com"
+
 
 on:
   # Runs on pushes targeting the default branch
