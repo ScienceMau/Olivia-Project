@@ -4,8 +4,8 @@
 For better performance of the created scripts we indicate:
 
 [![Blog](https://img.shields.io/badge/Julia%20Lang-Download-red?style=for-the-badge)](https://julialang.org/)
-[![Blog](https://img.shields.io/badge/Ubuntu-Download-orange?style=for-the-badge)](www.ubuntu.com)
-[![Blog](https://img.shields.io/badge/Python-Download-blue?style=for-the-badge)](www.python.org)
+[![Blog](https://img.shields.io/badge/Ubuntu-Download-orange?style=for-the-badge)](https://www.ubuntu.com)
+[![Blog](https://img.shields.io/badge/Python-Download-blue?style=for-the-badge)](https://www.python.org)
 
 
 The Olivia Project (OP) consists of scripts in Julia and Python language for the analysis of non-linear dynamic systems. The scripts that make up the OP calculate the Lyapunov Exponents, Bifurcation Diagrams, 01-Test and Basins of attraction, Portrait Phase and Poincare Map, thus forming a diagnosis of the chaotic or periodic behavior of the analyzed nonlinear dynamics system.
